@@ -1,5 +1,5 @@
 # Gym-Membership-Management
-This project is a database system designed to manage and streamline the operations of a gym. It stores and organizes information about gym members, trainers, staff, facilities, fee payments, and training schedules. The database uses a well-structured relational schema with proper use of primary and foreign keys to ensure data integrity.
+Designed a robust and scalable relational database system to streamline and manage gym operations efficiently. The system captures and organizes key information related to members, trainers, staff, facilities, training schedules, and fee payments. Emphasized data consistency and integrity through a well-structured schema with appropriate use of primary and foreign keys.
 
 # Contents
 - Entity Relationship Model
