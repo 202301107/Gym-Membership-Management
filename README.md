@@ -11,8 +11,8 @@ This project is a database system designed to manage and streamline the operatio
 - SQL sample queries
 
 # Group Members
--Harshvir Singh - 202301080 
--Kavish Patel  - 202301074       
--Shambhavi Singh - 202301107 
--Siddharth Rambhia – 202301072 
--Yaksh Patel- 202301089 
+- Harshvir Singh: 202301080 
+- Kavish Patel: 202301074       
+- Shambhavi Singh: 202301107 
+- Siddharth Rambhia: 202301072 
+- Yaksh Patel: 202301089 
