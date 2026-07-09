@@ -81,8 +81,9 @@ CREATE TABLE Staff_Uses_Facility (
 );
 
 CREATE TABLE Member_Trained_By (
-    memb_id INT PRIMARY KEY,
+    memb_id INT,
     trainer_id INT,
+    PRIMARY KEY (memb_id, trainer_id)
     FOREIGN KEY (memb_id) REFERENCES Member(memb_id),
     FOREIGN KEY (trainer_id) REFERENCES Trainer(trainer_id)
 );
