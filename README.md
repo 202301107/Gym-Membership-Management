@@ -9,6 +9,8 @@ Designed a robust and scalable relational database system to streamline and mana
 - DDL Script for Implementation of Relational Schema in PostgreSQL
 - DML Script for Data Insertion Statements in PostgreSQL
 - SQL sample queries
+- Indexing strategy for common query patterns 
+- Trigger-based integrity constraint preventing trainer double-booking 
 
 # Group Members
 - Harshvir Singh: 202301080 
